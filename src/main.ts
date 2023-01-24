@@ -278,7 +278,9 @@ function uiBuilder() {
 
 
     // info
-    $(inpWrapper).append(" <div class='inpItem helpItem'><p>You can find more information and how all this works <a target='_blank' href='https://github.com/MaxAFriedrich/EMDR/wiki'>here</a>. You can <a target='_blank' href='https://gitreports.com/issue/MaxAFriedrich/EMDR'>click here</a> to make a suggestion or report a bug. You can find the github repository <a class='gitEl' target='_blank' href='https://github.com/MaxAFriedrich/EMDR'>here</a>. </p></div>");
+    //$(inpWrapper).append(" <div class='inpItem helpItem'><p>You can find more information and how all this works <a target='_blank' href='https://github.com/MaxAFriedrich/EMDR/wiki'>here</a>. You can <a target='_blank' href='https://gitreports.com/issue/MaxAFriedrich/EMDR'>click here</a> to make a suggestion or report a bug. You can find the github repository <a class='gitEl' target='_blank' href='https://github.com/MaxAFriedrich/EMDR'>here</a>. </p></div>");
+   //RR: newline date:24-01-23
+    $(inpWrapper).append(" <div class='inpItem helpItem'><p>You can find more information and how all this works!<a target='_blank' href='https://github.com/MaxAFriedrich/EMDR/wiki'>here</a>. You can <a target='_blank' href='https://gitreports.com/issue/MaxAFriedrich/EMDR'>click here</a> to make a suggestion or report a bug. You can find the github repository <a class='gitEl' target='_blank' href='https://github.com/MaxAFriedrich/EMDR'>here</a>. </p></div>");
 
 
     //wrapper appends
